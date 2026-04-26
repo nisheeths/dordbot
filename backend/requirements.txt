@@ -13,3 +13,5 @@ scholarly>=1.7.11,<2
 beautifulsoup4>=4.12,<5
 requests-cache>=1.2,<2
 tenacity>=8.2,<9
+pymupdf>=1.24,<1.26
+pdfminer.six>=20220524

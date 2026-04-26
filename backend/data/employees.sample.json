@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e1",
+    "name": "Prof. Alice Smith",
+    "role": "Professor",
+    "scholar_id": "abc123",
+    "skills_text": "computer vision deep learning object detection image segmentation convolutional neural networks dataset curation",
+    "track_record": {"h_index": 35, "citations": 8000, "pubs_last_3y": 15, "custom_score": 0.8}
+  },
+  {
+    "id": "e2",
+    "name": "Dr. Bob Lee",
+    "role": "Postdoc",
+    "scholar_id": "def456",
+    "skills_text": "natural language processing information extraction keyphrase extraction transformers question answering retrieval augmentation",
+    "track_record": {"h_index": 20, "citations": 2500, "pubs_last_3y": 10, "custom_score": 0.6}
+  },
+  {
+    "id": "e3",
+    "name": "Carol Nguyen",
+    "role": "PhD Student",
+    "scholar_id": "ghi789",
+    "skills_text": "reinforcement learning simulation robotics control policy gradient multi agent systems",
+    "track_record": {"h_index": 8, "citations": 300, "pubs_last_3y": 5, "custom_score": 0.4}
+  }
+]

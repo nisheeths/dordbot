@@ -1,0 +1,15 @@
+fastapi>=0.110.0,<0.112
+uvicorn[standard]>=0.29,<0.31
+pydantic>=2.6,<3
+scikit-learn>=1.3,<1.5
+numpy>=1.23,<2.1
+scipy>=1.10,<1.13
+faiss-cpu>=1.7.4,<1.8.3
+python-dotenv>=1.0,<2
+requests>=2.31,<2.33
+yake>=0.4.8,<0.5
+joblib>=1.3,<1.5
+scholarly>=1.7.11,<2
+beautifulsoup4>=4.12,<5
+requests-cache>=1.2,<2
+tenacity>=8.2,<9
